@@ -16,7 +16,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:islandjoe/lumen-core.git"
+            "url": "ssh://git@github.com:islandjoe/lumen-core.git"
         }
     ],
     "require": {
