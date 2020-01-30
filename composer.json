@@ -13,8 +13,14 @@
             "email": "danijelmaricic@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:islandjoe/lumen-core.git"
+        }
+    ],
     "require": {
-        "nesbot/carbon": "~1.20",
+        "nesbot/carbon": "2.29.0",
         "crisu83/shortid": "^1.0"
     },
     "require-dev": {
