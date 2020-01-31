@@ -13,18 +13,9 @@
             "email": "danijelmaricic@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "ssh://git@github.com:islandjoe/lumen-core.git"
-        }
-    ],
     "require": {
         "nesbot/carbon": "2.29.0",
         "crisu83/shortid": "^1.0"
-    },
-    "require-dev": {
-        "laravel/lumen-framework": "^5.4"
     },
     "suggest": {
         "nordsoftware/lumen-cors": "For CORS support.",
