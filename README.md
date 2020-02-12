@@ -13,7 +13,7 @@ Core module for the [Lumen PHP framework](http://lumen.laravel.com/).
 
 ## Requirements
 
-- PHP 5.6 or newer
+- PHP 7.2 or newer
 - [Composer](http://getcomposer.org)
 
 ## Contributing
