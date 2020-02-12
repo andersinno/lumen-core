@@ -14,20 +14,12 @@
         }
     ],
     "require": {
-        "nesbot/carbon": "~1.20",
-        "crisu83/shortid": "^1.0"
+        "php": "^7.2",
+        "nesbot/carbon": "^2.0",
+        "crisu83/shortid": "^1.1"
     },
     "require-dev": {
-        "laravel/lumen-framework": "^5.4"
-    },
-    "suggest": {
-        "nordsoftware/lumen-cors": "For CORS support.",
-        "nordsoftware/lumen-doctrine": "For Doctrine support.",
-        "nordsoftware/lumen-elasticsearch": "For Elasticsearch support.",
-        "nordsoftware/lumen-fractal": "For serialization support.",
-        "nordsoftware/lumen-oauth2": "For OAuth2 support.",
-        "nordsoftware/lumen-rbac": "For RBAC support.",
-        "pagerfanta/pagerfanta": "For pagination support."
+        "phpunit/phpunit": "^8.5"
     },
     "autoload": {
         "psr-4": {
